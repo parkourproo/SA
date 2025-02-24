@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d504b91317b59d469665c9950c705db, type: 3}
+  m_Name: SpriteImgs
+  m_EditorClassIdentifier: 
+  graySeatCanNotMove: {fileID: 21300000, guid: c818388006bcb054cb66a3d106874d22, type: 3}
+  freezeTimeHelp: {fileID: 21300000, guid: 2884c12d573465c42bf6e733f003b098, type: 3}
+  paintSeat: {fileID: 21300000, guid: 78e209be0c59eaf4ba2d50bdea838d92, type: 3}
+  chaseAwayCus: {fileID: 21300000, guid: 8aeb5727b671b1c4bbae9541ac2f132a, type: 3}
+  manyColorsSeat: {fileID: 21300000, guid: 15f8b526a8018af4b826cb9e1ff22cd2, type: 3}
+  doubleSeat: {fileID: 21300000, guid: a16919083ecc11546902185b06011a05, type: 3}
+  obstacle: {fileID: 21300000, guid: c8cd2fd5d680d7244a1ff23d3aaa7a37, type: 3}
